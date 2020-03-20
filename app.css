@@ -1,0 +1,44 @@
+body
+{
+border-color: black;
+background: #e2cbe9;
+border-style: solid;
+border-radius: 6px;
+opacity:50%;
+
+}
+.name-details
+{ font-family:'Times New Roman', Times, serif;
+    
+
+    
+}
+
+.name-details h1
+{
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.name-details h3
+{
+    margin-left: 20px;
+}
+.basic
+{
+    border-color: blueviolet;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    
+    font-size: large;
+    border-width:medium;
+    margin-left: 400px;
+    text-decoration-color: white;
+    margin-bottom: 40px;
+    background-color:blue;
+}
